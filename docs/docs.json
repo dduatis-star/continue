@@ -81,6 +81,7 @@
             "icon": "rocket-launch",
             "pages": [
               "ide-extensions/install",
+              "getting-started/installing",
               "ide-extensions/quick-start",
               "customize/overview"
             ]
